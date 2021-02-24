@@ -1,0 +1,8 @@
+# folders
+dist
+.idea
+typings
+
+# files
+yarn.lock
+docs.sh
